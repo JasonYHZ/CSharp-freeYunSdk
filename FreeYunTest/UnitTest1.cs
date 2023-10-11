@@ -11,7 +11,7 @@ public class UnitTest1
     public void TestSdkNew()
     {
         var config = new Config(encryptKey: "zLIM3cUB", salt: "bz3cxNPXw7", appid: "24254", version: "1.0",
-            secretKey: "AF9E3182D09F566CE454F46763903D73");
+            secretKey: "AF9E3182D09F566CE454F46763903D73",algo: AlgoEnum.Des);
         var sdk = new FreeYunSdk(config);
         Assert.AreEqual(sdk.Config.SecretKey, config.SecretKey);
     }

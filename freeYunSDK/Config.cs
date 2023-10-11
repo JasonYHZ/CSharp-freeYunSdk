@@ -7,13 +7,14 @@ public enum AlgoEnum
 }
 public class Config
 {
-    public Config(string encryptKey, string salt, string appid, string version, string secretKey)
+    public Config(string encryptKey, string salt, string appid, string version, string secretKey, AlgoEnum algo)
     {
         EncryptKey = encryptKey;
         Salt = salt;
         Appid = appid;
         Version = version;
         SecretKey = secretKey;
+        Algo = algo;
     }
 
     public AlgoEnum Algo { get; set; }
