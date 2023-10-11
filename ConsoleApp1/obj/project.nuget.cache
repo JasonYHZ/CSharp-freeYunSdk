@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SP/S0LHg9Y9sV91ezJ4GtlYefxKMcrv6T+AlYRkSSabB1o2vGyvGsKk0aiVgtnxHTQiDdTbOd/Zw2rVJ3QnLaw==",
+  "success": true,
+  "projectFilePath": "/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuhuizhen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

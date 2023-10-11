@@ -1,0 +1,12 @@
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/bin/Debug/net7.0/freeYunSDK.deps.json
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/bin/Debug/net7.0/freeYunSDK.dll
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/bin/Debug/net7.0/freeYunSDK.pdb
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.csproj.AssemblyReference.cache
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.AssemblyInfoInputs.cache
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.AssemblyInfo.cs
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.csproj.CoreCompileInputs.cache
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.dll
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/refint/freeYunSDK.dll
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/freeYunSDK.pdb
+/Users/yuhuizhen/workspaces/CSharpProjects/freeYunSDK/freeYunSDK/obj/Debug/net7.0/ref/freeYunSDK.dll
